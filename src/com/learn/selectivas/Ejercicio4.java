@@ -8,5 +8,7 @@ public class Ejercicio4 {
 
         Scanner myScanner = new Scanner(System.in);
 
+
+
     }
 }
