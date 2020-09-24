@@ -1,4 +1,4 @@
 package com.learn.selectivas;
 
-public class Ejercicio4 {
+public class Ejercicio6 {
 }
