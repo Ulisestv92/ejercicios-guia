@@ -1,8 +1,8 @@
-package com.learn.selectivas;
+package com.learn.ciclos.repetitivos;
 
 import java.util.Scanner;
 
-public class Ejercicio1CR {
+public class Ejercicio1 {
     public static void main(String[] args) {
         // Imprimir por pantalla una lista de 20 numeros consecutivos, los cuales comienzan con un numero ingresado por teclado
 
