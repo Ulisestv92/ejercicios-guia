@@ -1,4 +1,4 @@
-package com.learn.vectores.y.matrices;
+package com.learn.guide.matrices;
 
 public class Ejercicio1 {
     public static void main(String[] args) {

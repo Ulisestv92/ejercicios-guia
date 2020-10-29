@@ -1,6 +1,4 @@
-package com.learn.ciclos.repetitivos;
-
-import sun.lwawt.macosx.CSystemTray;
+package com.learn.guide.repetitivos;
 
 import java.util.Scanner;
 

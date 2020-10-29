@@ -1,4 +1,4 @@
-package com.learn.secuenciales;
+package com.learn.guide.secuenciales;
 
 import java.util.Scanner;
 

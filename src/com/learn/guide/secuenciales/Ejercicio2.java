@@ -1,4 +1,4 @@
-package com.learn.secuenciales;
+package com.learn.guide.secuenciales;
 
 import java.sql.SQLOutput;
 import java.util.Scanner;

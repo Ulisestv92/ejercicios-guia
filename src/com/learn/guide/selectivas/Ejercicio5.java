@@ -1,4 +1,4 @@
-package com.learn.selectivas;
+package com.learn.guide.selectivas;
 
 import java.text.DecimalFormat;
 import java.util.Scanner;

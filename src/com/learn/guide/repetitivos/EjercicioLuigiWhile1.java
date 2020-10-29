@@ -1,6 +1,4 @@
-package com.learn.ciclos.repetitivos;
-
-import com.sun.xml.internal.ws.api.model.wsdl.WSDLOutput;
+package com.learn.guide.repetitivos;
 
 public class EjercicioLuigiWhile1 {
     public static void main(String[] args) {

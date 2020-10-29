@@ -1,4 +1,4 @@
-package com.learn.ciclos.repetitivos;
+package com.learn.guide.repetitivos;
 
 public class EjercicioLuigiWhile3 {
     public static void main(String[] args) {

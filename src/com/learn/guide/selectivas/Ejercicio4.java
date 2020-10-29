@@ -1,4 +1,4 @@
-package com.learn.selectivas;
+package com.learn.guide.selectivas;
 
 import java.util.Scanner;
 

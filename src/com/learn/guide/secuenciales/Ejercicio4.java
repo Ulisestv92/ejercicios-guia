@@ -1,4 +1,4 @@
-package com.learn.secuenciales;
+package com.learn.guide.secuenciales;
 
 import com.sun.corba.se.impl.interceptors.PICurrent;
 

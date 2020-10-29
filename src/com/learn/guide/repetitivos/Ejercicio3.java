@@ -1,4 +1,4 @@
-package com.learn.ciclos.repetitivos;
+package com.learn.guide.repetitivos;
 
 import java.util.Scanner;
 
