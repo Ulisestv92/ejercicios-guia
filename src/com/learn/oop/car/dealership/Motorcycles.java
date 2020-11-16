@@ -16,4 +16,8 @@ public class Motorcycles {
         this.model = model;
         this.cylinder = cylinder;
     }
+
+    public String toString (){
+        return "Motorcycle available [" + this.brand + " "+ this.model + "]";
+    }
 }

@@ -19,7 +19,7 @@ public class Cars {
     }
 
     public String toString () {
-        return this.brand.toString() +" " + this.model;
+        return "Car available [" + this.brand.toString() +" " + this.model + "]";
     }
 
 
